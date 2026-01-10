@@ -22,7 +22,6 @@ This project focuses on **clarity, soft visual feedback, and a distraction-free 
 - Cozy UI with background image and glass-style board
 - Soft winning tile highlight instead of sharp win lines
 - Winning popup with restart and edit-name options
-- Clean and minimal interaction flow
 
 ---
 
